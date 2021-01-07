@@ -1,0 +1,1 @@
+spark-submit ./target/scala-2.12/teikametrics_2.12-1.0.jar
